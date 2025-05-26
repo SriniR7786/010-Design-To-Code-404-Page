@@ -429,11 +429,11 @@ body, .background {
 /* Mobile Devices */	
 @media (max-width: 576px){
 	.whole-container{
-	width: 480px;
-	height: 500px;
+	width: 350px;
+	height: 540px;
 	color: white;
 	margin: 72px auto;
-	padding: 72px;
+	padding: 10px;
 	background-color: blue;
 	/* From https://css.glass */
 	background: rgba(31, 30, 30, 0.2);
@@ -448,6 +448,7 @@ body, .background {
 
 .s1{
 	font-size: 14px;
+	margin-top: 48px;
 	color: rgb(255, 255, 255);
 }
 
